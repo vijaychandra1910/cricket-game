@@ -4,6 +4,9 @@ Welcome to the Cricket Game! This is an interactive, fun web-based game built wi
 
 In this game, you get to play cricket against the computer by choosing between different moves, and the computer will randomly select its own move. The game simulates a simplified cricket match, giving you a lighthearted experience.
 
+# Image 
+![Screenshot 2025-01-18 210456](https://github.com/user-attachments/assets/961891f6-fbc1-4fc4-825a-37f58e1d58e5)<br>
+
 ## Features
 
 - Play against the computer with cricket-inspired moves.
